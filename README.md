@@ -10,8 +10,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
 - [x] Fork this repository to your Github account and pull it down to Glitch
-- [ ] Add, commit, and push your changes
-- [ ] Make your site live on gh-pages
+- [x] Add, commit, and push your changes
+- [x] Make your site live on gh-pages
 
 ### JavaScript
 - [x] Use JavaScript to display the value of the input on the page
@@ -22,8 +22,8 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 - [x] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website using the link on the session agenda.
 
 ## Day 2
 
